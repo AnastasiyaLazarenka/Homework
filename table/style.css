@@ -1,6 +1,6 @@
 body {
     position: relative;
-    background-image: url(zima.jpg);
+    background-image: url(https://drikus.club/uploads/posts/2021-12/1640710067_19-drikus-club-p-piratskii-korabl-v-more-tekhnika-krasivo-f-20.jpg);
     backdrop-filter: blur(0px);
     background-repeat: no-repeat;
     background-size: cover;
@@ -11,13 +11,13 @@ body {
 }
 
 fieldset {
-    border: solid 1px #471cc9;
+    border: solid 1px #5a60ff;
 }
 
 .legend {
     font-family: 'comic', sans-MS;
     letter-spacing: 4px;
-    color: #391cc9;
+    color: #917bff;
     font-size: 20px;
 }
 
@@ -52,11 +52,11 @@ textarea {
 }
 
 .bordergreen:hover {
-    border: solid 2px #4a1cc9;
+    border: solid 2px #5874ff;
 }
 
 .bordergreen:focus, textarea:focus {
-    border: solid 2px #531cc9;
+    border: solid 2px #6c7bff;
 }
 
 form {
